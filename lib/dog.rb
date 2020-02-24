@@ -14,7 +14,7 @@ class Dog
   end
 end
 
-myDog = Dog.new
+myDog = Dog.new("Fido", "Mutt")
 puts myDog.breed
 
 myDog.breed = "Husky"
