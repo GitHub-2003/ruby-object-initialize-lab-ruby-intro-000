@@ -20,9 +20,8 @@ end
 myDog  Dog.new
 puts "name:  #{myDog.name}, breed:  #{myDog.breed}"
 
-
 myDog = Dog.new("Fido", "Pug")
-puts myDog.breed
+puts "name:  #{myDog.name}, breed:  #{myDog.breed}"
 
 myDog.breed = "Husky"
-puts myDog.breed
+puts "name:  #{myDog.name}, breed:  #{myDog.breed}"
