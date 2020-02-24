@@ -17,7 +17,7 @@ class Dog
   end
 end
 
-myDog  Dog.new
+myDog  Dog.new("Beyonce")
 puts "name:  #{myDog.name}, breed:  #{myDog.breed}"
 
 myDog = Dog.new("Fido", "Pug")
