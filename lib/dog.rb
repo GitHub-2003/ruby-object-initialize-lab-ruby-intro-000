@@ -17,10 +17,10 @@ class Dog
   end
 end
 
-=begin
+
 myDog = Dog.new("Fido", "Mutt")
 puts myDog.breed
 
 myDog.breed = "Husky"
 puts myDog.breed
-=end
+
