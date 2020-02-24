@@ -26,4 +26,3 @@ puts "name:  #{myDog.name}, breed:  #{myDog.breed}"
 
 myDog.breed = "Husky"
 puts "name:  #{myDog.name}, breed:  #{myDog.breed}"
-
