@@ -17,6 +17,7 @@ class Dog
   end
 end
 
+=begin
 myDog  Dog.new("Beyonce")
 puts "name:  #{myDog.name}, breed:  #{myDog.breed}"
 
@@ -25,3 +26,4 @@ puts "name:  #{myDog.name}, breed:  #{myDog.breed}"
 
 myDog.breed = "Husky"
 puts "name:  #{myDog.name}, breed:  #{myDog.breed}"
+=end
