@@ -23,4 +23,3 @@ puts myDog.breed
 
 myDog.breed = "Husky"
 puts myDog.breed
-
